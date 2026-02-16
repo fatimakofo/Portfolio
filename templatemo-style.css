@@ -351,3 +351,15 @@ footer hr {
 .social-icon li a:hover {
   color: #d43f52;
 }
+.site-container{
+  border: 1px solid white;
+  padding: 5px 12px;
+  border-radius: 8px;
+}
+.site-container a{
+  text-decoration: none;
+  color: #d43f52;
+}
+div.portfolio-overlay a{
+  cursor: default;
+}
